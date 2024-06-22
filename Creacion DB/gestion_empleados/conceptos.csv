@@ -1,0 +1,15 @@
+ID_CONCEPTO;NOMBRE_CONCEPTO;TIPO;PORCENTAJE;Ind_Sal_Hora_C_NC;Descripccion
+1;Cooperativa;E;;NC;Campo NO calculado, valor definido
+2;Bonificacion;I;;NC;Campo NO calculado, valor definido
+3;Sindicato;E;0.01;S;Campo calculado, porcentaje del salario
+4;Libranza;E;;C;Consulta de tabla
+5;Aportes Empledo Salud;E;0.04;S;Campo calculado, porcentaje del salario
+6;Aportes Empleado Pension;E;0.04;S;Campo calculado, porcentaje del salario
+7;Comision;I;;NC;Campo NO calculado, valor definido
+8;Sueldo Devengado;I;;C;Consulta de tabla
+9;Hora Extra Diurna;I;0.25;H;Campo calculado, porcentaje de valor adicional por hora trabajada
+10;Hora Extra Nocturna;I;0.5;H;Campo calculado, porcentaje de valor adicional por hora trabajada
+11;Horas Extra Dominical y Festivo Diurna;I;1.5;H;Campo calculado, porcentaje de valor adicional por hora trabajada
+12;Hora Extra Dominical y Festivo Nocturna;I;2;H;Campo calculado, porcentaje de valor adicional por hora trabajada
+13;Hora Dominical y Festivo Diurna;I;0.75;H;Campo calculado, porcentaje de valor adicional por hora trabajada
+14;Hora Dominical y Festivo Nocturna;I;1;H;Campo calculado, porcentaje de valor adicional por hora trabajada

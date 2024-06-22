@@ -1,0 +1,20 @@
+/*======================================*/
+/* Bases de Datos Sistema de Informacion Administrativa - SIA.            /
+/*======================================*/
+
+-- Archivo: crea_DB_Pedidos.sql
+-- Este script Crea la estructura de la Base de Datos SIA
+-- Autor: Ivan Alexis Mancipe Callejas
+-- Fecha de Creación:23-03-2024
+
+create user pedidos identified by pedidos DEFAULT TABLESPACE data_sia temporary tablespace temp;
+
+ALTER USER pedidos DEFAULT TABLESPACE DATA_SIA QUOTA UNLIMITED ON DATA_SIA;
+
+Grant connect,resource to pedidos;
+
+connect pedidos/pedidos;
+
+@Crea_Tablas.txt
+
+@Crea_Restricciones.txt

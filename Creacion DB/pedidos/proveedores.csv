@@ -1,0 +1,30 @@
+Id_Proveedor;Nombre_Compania;Id_Contacto;Direccion;Id_Lugar;Codigo_postal;Telefono;Fax
+5;Exotic Liquids;1;49 Gilbert St.;1401;EC1 4SD;(171) 555-2222;
+18;New Orleans Cajun Delights;2;P.O. Box 78934;701;70117;(100) 555-4822;
+10;Grandma Kelly's Homestead;3;707 Oxford Rd.;702;48104;(313) 555-5735;(313) 555-3349
+28;Tokyo Traders;4;9-8 Sekimai Musashino-shi;1201;100;(03) 3555-5011;
+3;Cooperativa de Quesos 'Las Cabras';5;Calle del Rosal 4;601;33007;(98) 598 76 54;
+16;Mayumi's;6;92 Setsuko Chuo-ku;1202;545;(06) 431-7877;
+22;Pavlova, Ltd.;7;74 Rose St. Moonie Ponds;201;3058;(03) 444-2343;(03) 444-6588
+26;Specialty Biscuits, Ltd.;8;29 King's Way;1402;M14 GSD;(161) 555-4448;
+23;PB Knäckebröd AB;9;Kaloadagatan 13;1601;S-345 67;031-987 65 43;031-987 65 91
+25;Refrescos Americanas LTDA;10;Av. das Americanas 12.890;301;5442;(11) 555 4640;
+11;Heli Süßwaren GmbH & Co. KG;11;Tiergartenstraße 5;101;10785;(010) 9984510;
+24;Plutzer Lebensmittelgroßmärkte AG;12;Bogenallee 51;102;60439;(069) 992755;
+19;Nord-Ost-Fisch Handelsgesellschaft mbH;13;Frahmredder 112a;103;27478;(04721) 8713;(04721) 8714
+7;Formaggi Fortini s.r.l.;14;Viale Dante, 75;1101;48100;(0544) 60323;(0544) 60603
+20;Norske Meierier;15;Hatlevegen 5;1301;1320;(0)2-953010;
+2;Bigfoot Breweries;16;3400 - 8th Avenue Suite 210;703;97101;(503) 555-9931;
+27;Svensk Sjöföda AB;17;Brovallavägen 231;1602;S-123 45;08-123 45 67;
+1;Aux joyeux ecclésiastiques;18;203, Rue des Francs-Bourgeois;901;75004;(1) 03.83.00.68;(1) 03.83.00.62
+17;New England Seafood Cannery;19;Order Processing Dept. 2100 Paul Revere Blvd.;704;2134;(617) 555-3267;(617) 555-3389
+13;Leka Trading;20;471 Serangoon Loop, Suite #402;1501;512;555-8787;
+14;Lyngbysild;21;Lyngbysild Fiskebakken 10;501;2800;43844108;43844115
+29;Zaanse Snoepfabriek;22;Verkoop Rijnweg 22;1001;9999 ZZ;(12345) 1212;(12345) 1210
+12;Karkki Oy;23;Valtakatu 12;801;53120;(953) 10956;
+9;G'day, Mate;24;170 Prince Edward Parade Hunter's Hill;202;2042;(02) 555-5914;(02) 555-4873
+15;Ma Maison;25;2960 Rue St. Laurent;401;H1J 1C3;(514) 555-9022;
+21;Pasta Buttini s.r.l.;26;Via dei Gelsomini, 153;1102;84100;(089) 6547665;(089) 6547667
+4;Escargots Nouveaux;27;22, rue H. Voiron;902;71300;85.57.00.07;
+8;Gai pâturage;28;Bat. B 3, rue des Alpes;903;74000;38.76.98.06;38.76.98.58
+6;Forêts d'érables;29;148 rue Chasseur;402;J2S 7S8;(514) 555-2955;(514) 555-2921
